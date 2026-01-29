@@ -2,7 +2,7 @@
 
 Este projeto é um experimento em Python que permite conversar por voz com o ChatGPT. 🤖
 
-A ideia é simples: você fala no microfone 🎤, sua fala é transcrita automaticamente, enviada ao ChatGPT e a resposta retorna em áudio.
+A ideia é simples: você fala no microfone 🎤, sua fala é transcrita automaticamente, enviada ao ChatGPT e a resposta é reproduzida em áudio.
 
 Por segurança, este repositório **não inclui nenhuma chave de API**. 🔐
 
