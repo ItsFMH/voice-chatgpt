@@ -13,7 +13,7 @@ Por segurança, este repositório **não inclui nenhuma chave de API**. 🔐
 1. Crie sua API key em:
    https://platform.openai.com/api-keys
 
-2. Crie um arquivo `.env` na raiz do projeto:
+2. Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
 OPENAI_API_KEY=sua_api_key_aqui
 
 3. Instale as dependências:
