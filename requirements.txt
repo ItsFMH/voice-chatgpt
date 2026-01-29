@@ -1,0 +1,6 @@
+openai
+gtts
+speechrecognition
+pyaudio
+python-dotenv
+langdetect
