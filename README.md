@@ -1,2 +1,28 @@
-# voice-chatgpt
-Este projeto implementa um sistema de conversa por voz com o ChatGPT, integrando tecnologias de Speech-to-Text, Processamento de Linguagem Natural e Text-to-Speech.  A solução permite que o usuário fale por voz, tenha sua fala transcrita automaticamente, processada pelo ChatGPT, e receba a resposta em áudio, suportando múltiplos idiomas.
+# 🎙️ Voice ChatGPT
+
+Este projeto é um experimento em Python que permite conversar por voz com o ChatGPT. 🤖
+
+A ideia é simples: você fala no microfone 🎤, sua fala é transcrita automaticamente, enviada ao ChatGPT e a resposta retorna em áudio.
+
+Por segurança, este repositório **não inclui nenhuma chave de API**. 🔐
+
+---
+
+## 🚀 Como usar
+
+1. Crie sua API key em:
+   https://platform.openai.com/api-keys
+
+2. Crie um arquivo `.env` na raiz do projeto:
+OPENAI_API_KEY=sua_api_key_aqui
+
+3. Instale as dependências:
+pip install -r requirements.txt
+
+4. Execute o projeto:
+python main.py
+
+## ⚠️ Observação
+
+Se o microfone ou o áudio não funcionarem, verifique primeiro as configurações de som do sistema operacional antes de rodar o projeto.
+
